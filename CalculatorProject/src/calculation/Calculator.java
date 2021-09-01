@@ -1,7 +1,7 @@
 package calculation;
 
 public class Calculator {
-   int a=40,b=20,add,sub,mul,div,squ;
+   int a=40,b=30,add,sub,mul,div,squ;
    
   public void addition()
   {
